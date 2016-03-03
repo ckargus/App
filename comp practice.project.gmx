@@ -33,9 +33,13 @@
     <object>objects\object_end</object>
     <object>objects\object_barCreate</object>
     <object>objects\object_barBlue</object>
+    <object>objects\object_barBlueO</object>
     <object>objects\object_barRed</object>
+    <object>objects\object_barRedO</object>
     <object>objects\object_barYellow</object>
+    <object>objects\object_barYellowO</object>
     <object>objects\object_barPink</object>
+    <object>objects\object_barPinkO</object>
     <object>objects\object_rainbowBarCreate</object>
     <object>objects\object_rainbowBar</object>
   </objects>

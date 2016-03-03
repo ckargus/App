@@ -79,6 +79,46 @@
       </action>
       <action>
         <libid>1</libid>
+        <id>532</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_effect</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>-1</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>2</string>
+          </argument>
+          <argument>
+            <kind>13</kind>
+            <string>12632256</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>1</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
         <id>101</id>
         <kind>0</kind>
         <userelative>-1</userelative>
@@ -181,7 +221,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-500</string>
+            <string>-750</string>
           </argument>
         </arguments>
       </action>
@@ -209,7 +249,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-500</string>
+            <string>-750</string>
           </argument>
         </arguments>
       </action>
@@ -237,7 +277,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-500</string>
+            <string>-750</string>
           </argument>
         </arguments>
       </action>
@@ -265,7 +305,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-500</string>
+            <string>-750</string>
           </argument>
         </arguments>
       </action>
@@ -405,6 +445,46 @@
       </action>
       <action>
         <libid>1</libid>
+        <id>532</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_effect</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>-1</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>4</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>0</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>2</string>
+          </argument>
+          <argument>
+            <kind>13</kind>
+            <string>12632256</string>
+          </argument>
+          <argument>
+            <kind>4</kind>
+            <string>1</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
         <id>101</id>
         <kind>0</kind>
         <userelative>-1</userelative>
@@ -507,7 +587,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-500</string>
+            <string>-750</string>
           </argument>
         </arguments>
       </action>
@@ -535,7 +615,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-500</string>
+            <string>-750</string>
           </argument>
         </arguments>
       </action>
@@ -563,7 +643,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-500</string>
+            <string>-750</string>
           </argument>
         </arguments>
       </action>
@@ -591,7 +671,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-500</string>
+            <string>-750</string>
           </argument>
         </arguments>
       </action>
