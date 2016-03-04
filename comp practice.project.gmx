@@ -8,6 +8,9 @@
     <sound>sound\sound_cannonfire</sound>
     <sound>sound\sound_mainMusic</sound>
     <sound>sound\sound_ding</sound>
+    <sound>sound\sound_rainbow1</sound>
+    <sound>sound\sound_point1</sound>
+    <sound>sound\sound_point2</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\sprite_ballStart</sprite>
@@ -30,6 +33,7 @@
   <backgrounds name="background">
     <background>background\background_instruction</background>
     <background>background\background1</background>
+    <background>background\background_comp</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
