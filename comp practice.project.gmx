@@ -27,11 +27,15 @@
     <sprite>sprites\sprite_End</sprite>
     <sprite>sprites\sprite_rainbowBarCreate</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background_instruction</background>
+    <background>background\background1</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object_ball</object>
     <object>objects\object_cannon</object>
+    <object>objects\object_cannonStart</object>
     <object>objects\object_wallEmitter</object>
     <object>objects\object_wall</object>
     <object>objects\object_end</object>
@@ -46,9 +50,12 @@
     <object>objects\object_barPinkO</object>
     <object>objects\object_rainbowBarCreate</object>
     <object>objects\object_rainbowBar</object>
+    <object>objects\object_back</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\room_menu</room>
+    <room>rooms\room_main</room>
+    <room>rooms\room_instruction</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
