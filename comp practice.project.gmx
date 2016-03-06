@@ -30,6 +30,8 @@
     <sprite>sprites\sprite_End</sprite>
     <sprite>sprites\sprite_rainbowBarCreate</sprite>
     <sprite>sprites\sprite_gayCannon</sprite>
+    <sprite>sprites\sprite_instructions</sprite>
+    <sprite>sprites\sprite_back</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_instruction</background>
@@ -56,6 +58,7 @@
     <object>objects\object_rainbowBarCreate</object>
     <object>objects\object_rainbowBar</object>
     <object>objects\object_back</object>
+    <object>objects\object_intructions</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_menu</room>
