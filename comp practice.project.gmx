@@ -29,6 +29,7 @@
     <sprite>sprites\sprite_rainbow</sprite>
     <sprite>sprites\sprite_End</sprite>
     <sprite>sprites\sprite_rainbowBarCreate</sprite>
+    <sprite>sprites\sprite_gayCannon</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_instruction</background>
