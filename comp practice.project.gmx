@@ -46,7 +46,11 @@
     <object>objects\object_wallEmitter</object>
     <object>objects\object_wall</object>
     <object>objects\object_end</object>
-    <object>objects\object_barCreate</object>
+    <object>objects\object_barCreate1</object>
+    <object>objects\object_BarCreate2</object>
+    <object>objects\object_barCreate3</object>
+    <object>objects\object_barCreate4</object>
+    <object>objects\object_barBackup</object>
     <object>objects\object_barBlue</object>
     <object>objects\object_barBlueO</object>
     <object>objects\object_barRed</object>
@@ -59,6 +63,7 @@
     <object>objects\object_rainbowBar</object>
     <object>objects\object_back</object>
     <object>objects\object_intructions</object>
+    <object>objects\object_masterBar</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_menu</room>

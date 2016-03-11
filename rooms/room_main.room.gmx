@@ -52,7 +52,7 @@
   </views>
   <instances>
     <instance objName="object_cannon" x="240" y="800" name="inst_C5DF0874" locked="0" code="" scaleX="1.63313615322113" scaleY="0.637096762657166" colour="4294967295" rotation="0"/>
-    <instance objName="object_end" x="-35" y="1248" name="inst_5C8E59E1" locked="0" code="" scaleX="27.0300006866455" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_end" x="-64" y="1184" name="inst_5C8E59E1" locked="0" code="" scaleX="27.0300006866455" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="0" y="0" name="inst_7D1CD746" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="0" y="32" name="inst_B0E94B60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="0" y="64" name="inst_ABCDDB52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -133,6 +133,7 @@
     <instance objName="object_wall" x="736" y="32" name="inst_8FFDCE55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="736" y="0" name="inst_8372C7B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="736" y="864" name="inst_5EEFD462" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_masterBar" x="-48" y="352" name="inst_05B6994E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

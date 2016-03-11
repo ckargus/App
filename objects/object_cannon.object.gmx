@@ -179,7 +179,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>object_barCreate</object>
+            <object>object_barCreate1</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -187,7 +187,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-750</string>
+            <string>-1000</string>
           </argument>
         </arguments>
       </action>
@@ -207,7 +207,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>object_barCreate</object>
+            <object>object_BarCreate2</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -215,7 +215,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-750</string>
+            <string>-1000</string>
           </argument>
         </arguments>
       </action>
@@ -235,7 +235,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>object_barCreate</object>
+            <object>object_barCreate3</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -243,7 +243,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-750</string>
+            <string>-1000</string>
           </argument>
         </arguments>
       </action>
@@ -263,7 +263,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>object_barCreate</object>
+            <object>object_barCreate4</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -271,7 +271,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-750</string>
+            <string>-1000</string>
           </argument>
         </arguments>
       </action>
