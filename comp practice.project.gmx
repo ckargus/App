@@ -35,6 +35,15 @@
     <sprite>sprites\sprite_instructions</sprite>
     <sprite>sprites\sprite_back</sprite>
     <sprite>sprites\sprite_barrier</sprite>
+    <sprite>sprites\sprite_multiColor</sprite>
+    <sprite>sprites\sprite_slow</sprite>
+    <sprite>sprites\sprite_invincible</sprite>
+    <sprite>sprites\sprite_rb</sprite>
+    <sprite>sprites\sprite_rp</sprite>
+    <sprite>sprites\sprite_ry</sprite>
+    <sprite>sprites\sprite_bp</sprite>
+    <sprite>sprites\sprite_by</sprite>
+    <sprite>sprites\sprite_py</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_instruction</background>
