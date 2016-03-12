@@ -77,6 +77,10 @@
     <object>objects\object_intructions</object>
     <object>objects\object_masterBar</object>
     <object>objects\object_barrier</object>
+    <object>objects\object_timeSlow</object>
+    <object>objects\object_powerUpCreate</object>
+    <object>objects\object_invicible</object>
+    <object>objects\object_mutiColor</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_menu</room>
