@@ -57,22 +57,22 @@ ds_list_delete(global.list,num);
 if(color == 1)
 {
     instance_create(x, y+32, object_barPinkO);
-    instance_create(x, y+32, object_barrier);
+    
 }
 else if (color == 2)
 {
     instance_create(x, y+32, object_barBlueO);
-    instance_create(x, y+32, object_barrier);
+    
 }
 else if (color == 3)
 {
     instance_create(x, y+32, object_barRedO);
-    instance_create(x, y+32, object_barrier);
+    
 }
 else if (color == 4)
 {
     instance_create(x, y+32, object_barYellowO);
-    instance_create(x, y+32, object_barrier);
+    
 }
 </string>
           </argument>
