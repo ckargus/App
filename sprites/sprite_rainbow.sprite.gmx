@@ -3,14 +3,14 @@
   <type>0</type>
   <xorig>0</xorig>
   <yorigin>0</yorigin>
-  <colkind>0</colkind>
+  <colkind>1</colkind>
   <coltolerance>0</coltolerance>
-  <sepmasks>-1</sepmasks>
-  <bboxmode>0</bboxmode>
+  <sepmasks>0</sepmasks>
+  <bboxmode>1</bboxmode>
   <bbox_left>0</bbox_left>
   <bbox_right>703</bbox_right>
   <bbox_top>0</bbox_top>
-  <bbox_bottom>31</bbox_bottom>
+  <bbox_bottom>63</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
@@ -18,7 +18,7 @@
   </TextureGroups>
   <For3D>0</For3D>
   <width>704</width>
-  <height>32</height>
+  <height>64</height>
   <frames>
     <frame index="0">images\sprite_rainbow_0.png</frame>
     <frame index="1">images\sprite_rainbow_1.png</frame>

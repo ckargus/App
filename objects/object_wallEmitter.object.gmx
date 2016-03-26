@@ -75,7 +75,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-32</string>
+            <string>-256</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -111,7 +111,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-32</string>
+            <string>-256</string>
           </argument>
           <argument>
             <kind>0</kind>

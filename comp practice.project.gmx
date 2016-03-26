@@ -64,7 +64,6 @@
     <object>objects\object_BarCreate2</object>
     <object>objects\object_barCreate3</object>
     <object>objects\object_barCreate4</object>
-    <object>objects\object_barBackup</object>
     <object>objects\object_barBlue</object>
     <object>objects\object_barBlueO</object>
     <object>objects\object_barRed</object>
@@ -83,9 +82,9 @@
     <object>objects\object_powerUpCreate</object>
     <object>objects\object_invicible</object>
     <object>objects\object_mutiColor</object>
-    <object>objects\object29</object>
     <object>objects\object_Mmoveleft</object>
     <object>objects\object_Mmoveright</object>
+    <object>objects\object_startGame</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_menu</room>
