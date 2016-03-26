@@ -44,6 +44,8 @@
     <sprite>sprites\sprite_bp</sprite>
     <sprite>sprites\sprite_by</sprite>
     <sprite>sprites\sprite_py</sprite>
+    <sprite>sprites\test_anime</sprite>
+    <sprite>sprites\moobilemove</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_instruction</background>
@@ -81,6 +83,9 @@
     <object>objects\object_powerUpCreate</object>
     <object>objects\object_invicible</object>
     <object>objects\object_mutiColor</object>
+    <object>objects\object29</object>
+    <object>objects\object_Mmoveleft</object>
+    <object>objects\object_Mmoveright</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_menu</room>

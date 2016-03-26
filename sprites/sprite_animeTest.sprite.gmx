@@ -3,14 +3,14 @@
   <type>0</type>
   <xorig>0</xorig>
   <yorigin>0</yorigin>
-  <colkind>0</colkind>
-  <coltolerance>6</coltolerance>
-  <sepmasks>-1</sepmasks>
+  <colkind>1</colkind>
+  <coltolerance>0</coltolerance>
+  <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
-  <bbox_left>0</bbox_left>
-  <bbox_right>62</bbox_right>
-  <bbox_top>1</bbox_top>
-  <bbox_bottom>63</bbox_bottom>
+  <bbox_left>7</bbox_left>
+  <bbox_right>47</bbox_right>
+  <bbox_top>15</bbox_top>
+  <bbox_bottom>55</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
@@ -21,5 +21,34 @@
   <height>64</height>
   <frames>
     <frame index="0">images\sprite_animeTest_0.png</frame>
+    <frame index="1">images\sprite_animeTest_1.png</frame>
+    <frame index="2">images\sprite_animeTest_2.png</frame>
+    <frame index="3">images\sprite_animeTest_3.png</frame>
+    <frame index="4">images\sprite_animeTest_4.png</frame>
+    <frame index="5">images\sprite_animeTest_5.png</frame>
+    <frame index="6">images\sprite_animeTest_6.png</frame>
+    <frame index="7">images\sprite_animeTest_7.png</frame>
+    <frame index="8">images\sprite_animeTest_8.png</frame>
+    <frame index="9">images\sprite_animeTest_9.png</frame>
+    <frame index="10">images\sprite_animeTest_10.png</frame>
+    <frame index="11">images\sprite_animeTest_11.png</frame>
+    <frame index="12">images\sprite_animeTest_12.png</frame>
+    <frame index="13">images\sprite_animeTest_13.png</frame>
+    <frame index="14">images\sprite_animeTest_14.png</frame>
+    <frame index="15">images\sprite_animeTest_15.png</frame>
+    <frame index="16">images\sprite_animeTest_16.png</frame>
+    <frame index="17">images\sprite_animeTest_17.png</frame>
+    <frame index="18">images\sprite_animeTest_18.png</frame>
+    <frame index="19">images\sprite_animeTest_19.png</frame>
+    <frame index="20">images\sprite_animeTest_20.png</frame>
+    <frame index="21">images\sprite_animeTest_21.png</frame>
+    <frame index="22">images\sprite_animeTest_22.png</frame>
+    <frame index="23">images\sprite_animeTest_23.png</frame>
+    <frame index="24">images\sprite_animeTest_24.png</frame>
+    <frame index="25">images\sprite_animeTest_25.png</frame>
+    <frame index="26">images\sprite_animeTest_26.png</frame>
+    <frame index="27">images\sprite_animeTest_27.png</frame>
+    <frame index="28">images\sprite_animeTest_28.png</frame>
+    <frame index="29">images\sprite_animeTest_29.png</frame>
   </frames>
 </sprite>
