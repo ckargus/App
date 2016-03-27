@@ -3,7 +3,7 @@
   <name>GooglePlayServicesExtension</name>
   <version>2.3.0</version>
   <packageID>com.yoyogames.googleplayservicesextension</packageID>
-  <ProductID>CDA66577940B98EA7F3B8D9EBAA867CD</ProductID>
+  <ProductID></ProductID>
   <date>27/03/15</date>
   <license>Free to use, also for commercial games.</license>
   <description></description>
@@ -63,7 +63,7 @@
           <kind>11</kind>
           <help>GoogleMobileAds_ShowInterstitial()</help>
           <returnType>2</returnType>
-          <argCount>-1</argCount>
+          <argCount>0</argCount>
           <args/>
         </function>
         <function>
@@ -72,7 +72,7 @@
           <kind>11</kind>
           <help>GoogleMobileAds_LoadInterstitial()</help>
           <returnType>2</returnType>
-          <argCount>0</argCount>
+          <argCount>-1</argCount>
           <args/>
         </function>
         <function>
@@ -81,7 +81,7 @@
           <kind>11</kind>
           <help>GoogleMobileAds_InterstitialStatus()</help>
           <returnType>1</returnType>
-          <argCount>0</argCount>
+          <argCount>-1</argCount>
           <args/>
         </function>
         <function>

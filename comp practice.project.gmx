@@ -88,6 +88,8 @@
     <object>objects\object_Mmoveleft</object>
     <object>objects\object_Mmoveright</object>
     <object>objects\object_startGame</object>
+    <object>objects\load_add</object>
+    <object>objects\banner</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_menu</room>

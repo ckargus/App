@@ -53,6 +53,8 @@
   <instances>
     <instance objName="object_intructions" x="519" y="881" name="inst_8A15A61F" locked="0" code="" scaleX="0.69803923368454" scaleY="0.71875" colour="4294967295" rotation="0"/>
     <instance objName="object_startGame" x="-305" y="-148" name="inst_9B0E8C2D" locked="0" code="" scaleX="3.5039165019989" scaleY="1.517578125" colour="4294967295" rotation="0"/>
+    <instance objName="load_add" x="-341" y="-143" name="inst_D81FC68F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="banner" x="-333" y="-112" name="inst_7CB0E89A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
