@@ -49,12 +49,9 @@
     <sprite>sprites\sprite_py</sprite>
     <sprite>sprites\test_anime</sprite>
     <sprite>sprites\moobilemove</sprite>
-
     <sprite>sprites\sprite_HighScoreMenu</sprite>
     <sprite>sprites\sprite_okayButton</sprite>
-
     <sprite>sprites\sprite33</sprite>
-
   </sprites>
   <backgrounds name="background">
     <background>background\background_instruction</background>
