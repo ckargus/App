@@ -19,7 +19,6 @@
   <sprites name="sprites">
     <sprite>sprites\sprite_ballStart</sprite>
     <sprite>sprites\sprite_animeTest</sprite>
-    <sprite>sprites\sprite_invinciblePower</sprite>
     <sprite>sprites\sprite_ballBlue</sprite>
     <sprite>sprites\sprite_ballYellow</sprite>
     <sprite>sprites\sprite_ballPink</sprite>
