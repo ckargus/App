@@ -27,6 +27,8 @@
             <kind>1</kind>
             <string>GoogleMobileAds_Init("ca-app-pub-4155537929976673/2367341344");
 GoogleMobileAds_LoadInterstitial();
+var global.adCounter = 0;
+
 
 </string>
           </argument>
