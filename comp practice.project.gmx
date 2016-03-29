@@ -49,6 +49,8 @@
     <sprite>sprites\sprite_py</sprite>
     <sprite>sprites\test_anime</sprite>
     <sprite>sprites\moobilemove</sprite>
+    <sprite>sprites\sprite_HighScoreMenu</sprite>
+    <sprite>sprites\sprite_okayButton</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_instruction</background>
@@ -90,6 +92,8 @@
     <object>objects\object_startGame</object>
     <object>objects\load_add</object>
     <object>objects\banner</object>
+    <object>objects\object_highScoreMenu</object>
+    <object>objects\object_okButton</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_menu</room>
