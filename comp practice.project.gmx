@@ -61,6 +61,7 @@
   <paths name="paths"/>
   <fonts name="fonts">
     <font>fonts\font0</font>
+    <font>fonts\font_score</font>
   </fonts>
   <objects name="objects">
     <object>objects\object_ball</object>

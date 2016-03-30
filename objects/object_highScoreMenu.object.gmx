@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>instance_create( x+sprite_width-64, y+sprite_height-32, object_okButton);
+            <string>//instance_create( x+sprite_width-64, y+sprite_height-32, object_okButton);
 if(score &gt; global.bestscore)
 {
 ini_open("Save.ini");
@@ -81,8 +81,9 @@ ini_close();
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text_transformed(x+32,y+32,"Highscore: " + string(global.bestscore),2,2,0);
-draw_text_transformed(x+200,y+200,+ string(score),4,4,0);
+            <string>draw_set_font(font_score)
+draw_text_transformed(200,650,"Highscore: " + string(global.bestscore),.2,.2,0);
+draw_text(x+190,y+100,+ string(score));
 
 </string>
           </argument>

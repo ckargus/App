@@ -31,7 +31,10 @@ ini_open("Save.ini");
 global.bestscore = ini_read_real("Score","highscore",0);
 ini_close();
 }
-
+else 
+{
+global.bestscore = 0;
+}
 </string>
           </argument>
         </arguments>
