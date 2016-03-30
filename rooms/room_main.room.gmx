@@ -188,6 +188,7 @@ surface_resize(application_surface, ww, hh);
     <instance objName="object_wall" x="0" y="-192" name="inst_22BCE268" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="0" y="-224" name="inst_7140A419" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wall" x="0" y="-256" name="inst_90D9CA4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_powerUpCreate" x="-96" y="224" name="inst_38723A41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
