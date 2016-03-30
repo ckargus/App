@@ -56,16 +56,16 @@
     instance_create(350,-300,object_mutiColor);
     alarm[0]=300;
 }
-//else if (global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; global.MutiColorActive == 0 &amp;&amp; choose(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15) == 1 &amp;&amp; !object_exists(object_timeSlow) &amp;&amp; !!object_exists(object_invicible) &amp;&amp; !object_exists(object_mutiColor))
-//{
-  //  instance_create(random_range(96,display_get_width()-96),-300,object_timeSlow);
-   // alarm[0]=2;
-//}
-//else if (global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; global.MutiColorActive == 0 &amp;&amp; random_range(1,25) == 1 &amp;&amp; !object_exists(object_timeSlow) &amp;&amp; !object_exists(object_invicible) &amp;&amp; !object_exists(object_mutiColor))
-//{
-  //  instance_create(random_range(96,display_get_width()-96),-300,object_invicible);
-    //alarm[0]=2;
-//}
+else if (global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; global.MutiColorActive == 0 &amp;&amp; choose(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15) == 1)
+{
+    instance_create(350,-300,object_timeSlow);
+    alarm[0]=300;
+}
+else if (global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; global.MutiColorActive == 0 &amp;&amp; random(25) &gt; 24)
+{
+    instance_create(350,-300,object_invicible);
+    alarm[0]=300;
+}
 else
 {
     alarm[0]=300;
