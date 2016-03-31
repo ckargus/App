@@ -81,10 +81,20 @@ ini_close();
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text_transformed(130,600,"Highscore: " + string(global.bestscore),.5,.5,0);
-
-draw_text(x+183,y+85,+ string(score));
-
+            <string>
+draw_text_transformed(global.w * .35 ,global.h * .75 ,"Highscore: " + string(global.bestscore),.5,.5,0);
+if (score &lt; 10)
+{
+draw_text(global.w * .465 , global.h * .425,string(score));
+}
+else if (score &gt;= 10) &amp;&amp; (score &lt; 20)
+{
+draw_text(global.w * .45 ,global.h * .425 ,string(score));
+}
+else if (score &gt;= 20)
+{
+draw_text(global.w * .445, global.h * .425 ,string(score));
+}
 </string>
           </argument>
         </arguments>

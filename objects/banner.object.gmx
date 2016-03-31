@@ -26,7 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>GoogleMobileAds_BannerGetWidth();
-GoogleMobileAds_AddBannerAt("ca-app-pub-4155537929976673/8494600146",GoogleMobileAds_Banner,0,0);
+GoogleMobileAds_AddBannerAt("ca-app-pub-4155537929976673/8494600146",GoogleMobileAds_Banner,(display_get_width() - GoogleMobileAds_BannerGetWidth()) * .05,0);
 
 </string>
           </argument>
