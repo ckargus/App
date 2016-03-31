@@ -51,17 +51,17 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if(global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; global.MutiColorActive == 0 &amp;&amp; choose(1,2,3,4,5) == 1)
-{
-    instance_create(350,-300,object_mutiColor);
-    alarm[0]=450;
-}
-else if (global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; global.MutiColorActive == 0 &amp;&amp; choose(1,2,3,4,5,6,7,8,9,10) == 1)
+            <string>//if(global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; global.MutiColorActive == 0 &amp;&amp; choose(1,2,3,4,5) == 1)
+//{
+//    instance_create(350,-300,object_mutiColor);
+//    alarm[0]=450;
+//}
+if (global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; choose(1,2,3,4,5,6,7,8,9,10) == 1)
 {
     instance_create(350,-300,object_timeSlow);
     alarm[0]=450;
 }
-else if (global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; global.MutiColorActive == 0 &amp;&amp; choose(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15) == 1)
+else if (global.slowTimeActive == 0 &amp;&amp; global.InvicibleActive == 0 &amp;&amp; choose(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15) == 1)
 {
     instance_create(350,-300,object_invicible);
     alarm[0]=450;
