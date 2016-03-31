@@ -598,7 +598,8 @@ global.adCounter = 0;
             <kind>1</kind>
             <string>var aspect_h = display_get_height() / display_get_width();
 var aspect_w = display_get_width() / display_get_height(); 
-draw_text_transformed(75 * aspect_h,64,string(score),2,2,0);
+draw_text_transformed(75 * aspect_h,64,string(score),.5,.5,0);
+
 </string>
           </argument>
         </arguments>
@@ -661,7 +662,7 @@ draw_text_transformed(75 * aspect_h,64,string(score),2,2,0);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text_transformed(700,64,"Slow Time: " + string(global.slowTime) + " sec",2,2,0);
+            <string>draw_text_transformed(700,64,"Slow Time: " + string(global.slowTime) + " sec",.2,.2,0);
 </string>
           </argument>
         </arguments>
@@ -738,7 +739,7 @@ draw_text_transformed(75 * aspect_h,64,string(score),2,2,0);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text_transformed(700,128,"Invicible Time: " + string(global.TimeInvicible) + " sec",2,2,0);
+            <string>draw_text_transformed(700,128,"Invicible Time: " + string(global.TimeInvicible) + " sec",.2,.2,0);
 </string>
           </argument>
         </arguments>
@@ -815,7 +816,7 @@ draw_text_transformed(75 * aspect_h,64,string(score),2,2,0);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text_transformed(500,192,"Muti-Color Time: " + string(global.TimeMutiColor) + " sec",2,2,0);
+            <string>draw_text_transformed(500,192,"Muti-Color Time: " + string(global.TimeMutiColor) + " sec",.2,.2,0);
 </string>
           </argument>
         </arguments>

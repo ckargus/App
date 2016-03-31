@@ -35,6 +35,7 @@ else
 {
 global.bestscore = 0;
 }
+
 </string>
           </argument>
         </arguments>

@@ -861,6 +861,30 @@
       </action>
       <action>
         <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>-1</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>global.emit</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>-15</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
         <id>424</id>
         <kind>2</kind>
         <userelative>0</userelative>
@@ -958,7 +982,7 @@ alarm[6]=2;
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>sound_point1</sound>
+            <sound>sound_point2</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -2318,6 +2342,30 @@ alarm[6]=2;
           <argument>
             <kind>0</kind>
             <string>-10</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>611</id>
+        <kind>6</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>-1</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>global.emit</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>+15</string>
           </argument>
         </arguments>
       </action>
