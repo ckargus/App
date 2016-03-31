@@ -559,7 +559,7 @@ global.adCounter = 0;
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="8" enumb="0">
+    <event eventtype="8" enumb="64">
       <action>
         <libid>1</libid>
         <id>524</id>
@@ -662,7 +662,7 @@ draw_text_transformed(48,128,string(score),.5,.5,0);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text_transformed(700,64,"Slow Time: " + string(global.slowTime) + " sec",.2,.2,0);
+            <string>draw_text_transformed(700,64,string(global.slowTime),.5,.5,0);
 </string>
           </argument>
         </arguments>
@@ -739,7 +739,7 @@ draw_text_transformed(48,128,string(score),.5,.5,0);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text_transformed(700,128,"Invicible Time: " + string(global.TimeInvicible) + " sec",.2,.2,0);
+            <string>draw_text_transformed(500,128,string(global.TimeInvicible),.2,.2,0);
 </string>
           </argument>
         </arguments>
