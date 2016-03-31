@@ -52,6 +52,10 @@
     <sprite>sprites\sprite_HighScoreMenu</sprite>
     <sprite>sprites\sprite_okayButton</sprite>
     <sprite>sprites\sprite33</sprite>
+    <sprite>sprites\sprite_ballInvincible</sprite>
+    <sprite>sprites\sprite_exit</sprite>
+    <sprite>sprites\sprite_retry</sprite>
+    <sprite>sprites\sprite_sound</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_instruction</background>
@@ -69,6 +73,7 @@
     <object>objects\object_cannonStart</object>
     <object>objects\object_wallEmitter</object>
     <object>objects\object_wall</object>
+    <object>objects\object_wallStatic</object>
     <object>objects\object_end</object>
     <object>objects\object_barCreate1</object>
     <object>objects\object_BarCreate2</object>
@@ -99,6 +104,9 @@
     <object>objects\banner</object>
     <object>objects\object_highScoreMenu</object>
     <object>objects\object_okButton</object>
+    <object>objects\object_exit</object>
+    <object>objects\object_retry</object>
+    <object>objects\object_soundSwitch</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_menu</room>

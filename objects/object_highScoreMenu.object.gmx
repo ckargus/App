@@ -81,8 +81,9 @@ ini_close();
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_text_transformed(200,650,"Highscore: " + string(global.bestscore),.2,.2,0);
-draw_text(x+190,y+100,+ string(score));
+            <string>draw_text_transformed(130,600,"Highscore: " + string(global.bestscore),.5,.5,0);
+
+draw_text(x+183,y+85,+ string(score));
 
 </string>
           </argument>
