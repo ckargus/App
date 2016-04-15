@@ -257,11 +257,11 @@ var posy = image_yscale;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>52 * posx</string>
+            <string>48</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-64 * posy</string>
+            <string>0</string>
           </argument>
         </arguments>
       </action>

@@ -2667,7 +2667,7 @@ alarm[6]=2;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>30</string>
+            <string>15</string>
           </argument>
         </arguments>
       </action>

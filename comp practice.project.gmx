@@ -7,6 +7,7 @@
     <extension index="0">extensions\GooglePlayServicesExtension</extension>
     <extension index="1">extensions\GoogleAnalyticsExt</extension>
     <extension index="2">extensions\MoPubExtension</extension>
+    <extension index="3">extensions\FlurryAnalyticsExt</extension>
   </NewExtensions>
   <sounds name="sound">
     <sound>sound\sound_cannonfire</sound>
@@ -55,11 +56,14 @@
     <sprite>sprites\sprite_ballInvincible</sprite>
     <sprite>sprites\sprite_exit</sprite>
     <sprite>sprites\sprite_retry</sprite>
+    <sprite>sprites\sprite_credits</sprite>
     <sprite>sprites\sprite_sound</sprite>
+    <sprite>sprites\sprite_url</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_instruction</background>
     <background>background\background1</background>
+    <background>background\background_lincese</background>
     <background>background\background_comp</background>
   </backgrounds>
   <paths name="paths"/>
@@ -94,8 +98,10 @@
     <object>objects\object_masterBar</object>
     <object>objects\object_barrier</object>
     <object>objects\object_timeSlow</object>
+    <object>objects\object_slowstatic</object>
     <object>objects\object_powerUpCreate</object>
     <object>objects\object_invicible</object>
+    <object>objects\object_invinsiblestatic</object>
     <object>objects\object_mutiColor</object>
     <object>objects\object_Mmoveleft</object>
     <object>objects\object_Mmoveright</object>
@@ -107,11 +113,23 @@
     <object>objects\object_exit</object>
     <object>objects\object_retry</object>
     <object>objects\object_soundSwitch</object>
+    <object>objects\object_urlMagic</object>
+    <object>objects\object_urlRichland</object>
+    <object>objects\object_cc3_0</object>
+    <object>objects\object_m1garand</object>
+    <object>objects\object_battlestar</object>
+    <object>objects\object_newstep</object>
+    <object>objects\object_guru</object>
+    <object>objects\object_credits</object>
   </objects>
+  <timelines name="timelines">
+    <timeline>timelines\timeline0</timeline>
+  </timelines>
   <rooms name="rooms">
     <room>rooms\room_menu</room>
     <room>rooms\room_main</room>
     <room>rooms\room_instruction</room>
+    <room>rooms\room_license</room>
     <room>rooms\room_highscore</room>
   </rooms>
   <help>

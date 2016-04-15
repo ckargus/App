@@ -53,7 +53,7 @@
   <instances>
     <instance objName="object_intructions" x="519" y="881" name="inst_8A15A61F" locked="0" code="" scaleX="0.69803923368454" scaleY="0.71875" colour="4294967295" rotation="0"/>
     <instance objName="object_soundSwitch" x="64" y="128" name="inst_1C3280FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object_startGame" x="256" y="960" name="inst_9B0E8C2D" locked="0" code="" scaleX="0.668407320976257" scaleY="0.28125" colour="4294967295" rotation="0"/>
+    <instance objName="object_startGame" x="224" y="896" name="inst_9B0E8C2D" locked="0" code="" scaleX="0.668407320976257" scaleY="0.3125" colour="4294967295" rotation="0"/>
     <instance objName="load_add" x="-341" y="-143" name="inst_D81FC68F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="banner" x="-333" y="-112" name="inst_7CB0E89A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wallStatic" x="0" y="0" name="inst_8161F5C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -138,6 +138,8 @@
     <instance objName="object_wallStatic" x="736" y="32" name="inst_C8D17C7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wallStatic" x="736" y="0" name="inst_43F2AF8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_wallStatic" x="736" y="-32" name="inst_61DA566C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_credits" x="64" y="1120" name="inst_96F7D2F0" locked="0" code="" scaleX="0.375" scaleY="0.5" colour="4294967295" rotation="0"/>
+    <instance objName="object_cannonStart" x="256" y="960" name="inst_6E27D34D" locked="0" code="" scaleX="1.80569994449615" scaleY="1.67499995231628" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
