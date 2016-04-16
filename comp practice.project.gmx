@@ -8,6 +8,7 @@
     <extension index="1">extensions\GoogleAnalyticsExt</extension>
     <extension index="2">extensions\MoPubExtension</extension>
     <extension index="3">extensions\FlurryAnalyticsExt</extension>
+    <extension index="4">extensions\FacebookExtension</extension>
   </NewExtensions>
   <sounds name="sound">
     <sound>sound\sound_cannonfire</sound>
@@ -121,6 +122,7 @@
     <object>objects\object_newstep</object>
     <object>objects\object_guru</object>
     <object>objects\object_credits</object>
+    <object>objects\object_googleServices</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>

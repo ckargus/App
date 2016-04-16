@@ -140,6 +140,7 @@
     <instance objName="object_wallStatic" x="736" y="-32" name="inst_61DA566C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_credits" x="64" y="1120" name="inst_96F7D2F0" locked="0" code="" scaleX="0.375" scaleY="0.5" colour="4294967295" rotation="0"/>
     <instance objName="object_cannonStart" x="256" y="960" name="inst_6E27D34D" locked="0" code="" scaleX="1.80569994449615" scaleY="1.67499995231628" colour="4294967295" rotation="0"/>
+    <instance objName="object_googleServices" x="672" y="64" name="inst_FB989276" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

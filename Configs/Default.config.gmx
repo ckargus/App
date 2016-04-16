@@ -22,13 +22,13 @@
     <option_android_arch_mipsr2sf>false</option_android_arch_mipsr2sf>
     <option_android_arch_x86>True</option_android_arch_x86>
     <option_android_build_tools_version>23.0.1</option_android_build_tools_version>
-    <option_android_build_version>1</option_android_build_version>
+    <option_android_build_version>3</option_android_build_version>
     <option_android_color_depth>1</option_android_color_depth>
     <option_android_compile_sdk_version>23</option_android_compile_sdk_version>
     <option_android_display_name>RainBall</option_android_display_name>
     <option_android_facebook_app_display_name></option_android_facebook_app_display_name>
     <option_android_facebook_appid></option_android_facebook_appid>
-    <option_android_facebook_enable>0</option_android_facebook_enable>
+    <option_android_facebook_enable>-1</option_android_facebook_enable>
     <option_android_flurry_analytics>0</option_android_flurry_analytics>
     <option_android_google_analytics>-1</option_android_google_analytics>
     <option_android_google_analytics_enable>false</option_android_google_analytics_enable>
